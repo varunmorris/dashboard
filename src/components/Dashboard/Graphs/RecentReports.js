@@ -30,7 +30,7 @@ const RecentReports = () => (
   <HighchartsChart styledMode>
     <Chart />
 
-    <Title>Recent Reports</Title>
+    <Title>Git Hub Practice</Title>
 
     <Legend
       layout="vertical"
